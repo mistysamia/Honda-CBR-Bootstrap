@@ -6,3 +6,25 @@ header{
     background-color: #264653;
     height: 698px;
 }
+
+.featuredHR{
+    width: 4%;
+    margin-left: 48%;
+    color: red;
+}
+
+i{
+    color:#E77C40;
+}
+
+form{
+    background-color: rgb(224, 222, 222);
+}
+
+footer{
+    background-color: #0B0D17;
+}
+
+footer h2,h5,h4{
+    color: snow;
+}
