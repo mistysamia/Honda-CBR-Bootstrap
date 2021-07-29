@@ -21,6 +21,9 @@ form{
     background-color: rgb(224, 222, 222);
 }
 
+form label{
+    color: black;
+}
 footer{
     background-color: #0B0D17;
     
